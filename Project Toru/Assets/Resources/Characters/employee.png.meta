@@ -1,0 +1,1327 @@
+fileFormatVersion: 2
+guid: 896be2e5d09deb343844e0f84f5c60a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3555098256961693778
+    second: employee 1_0
+  - first:
+      213: -1998521456867592325
+    second: employee 1_1
+  - first:
+      213: -2883512846045730625
+    second: employee 1_2
+  - first:
+      213: 6972737782809070926
+    second: employee 1_3
+  - first:
+      213: -5492160238170467813
+    second: employee 1_4
+  - first:
+      213: 5706725514065731126
+    second: employee 1_5
+  - first:
+      213: 2375207462243645082
+    second: employee 1_6
+  - first:
+      213: 6123564516723248576
+    second: employee 1_7
+  - first:
+      213: -6153898908496556349
+    second: employee 1_8
+  - first:
+      213: 269868729651997438
+    second: employee 1_9
+  - first:
+      213: 3168719672892362188
+    second: employee 1_10
+  - first:
+      213: -699027600385077557
+    second: employee 1_11
+  - first:
+      213: -7181807967775171521
+    second: employee 1_12
+  - first:
+      213: -5500414532953094997
+    second: employee 1_13
+  - first:
+      213: -8603670236362739270
+    second: employee 1_14
+  - first:
+      213: 7079503212169564119
+    second: employee 1_15
+  - first:
+      213: -2327155381593715903
+    second: employee 1_16
+  - first:
+      213: -3892478225488019902
+    second: employee 1_17
+  - first:
+      213: -533411742585581376
+    second: employee 1_18
+  - first:
+      213: 3367412744795903051
+    second: employee 1_19
+  - first:
+      213: -6050422610043923690
+    second: employee 1_20
+  - first:
+      213: -5906142157618316038
+    second: employee 1_21
+  - first:
+      213: 2405851227352813520
+    second: employee 1_22
+  - first:
+      213: 3629805709666290521
+    second: employee 1_23
+  - first:
+      213: 3768708251314984270
+    second: employee 1_24
+  - first:
+      213: -1479830153280932753
+    second: employee 1_25
+  - first:
+      213: 2141210247167911188
+    second: employee 1_26
+  - first:
+      213: -7363292121659857063
+    second: employee 1_27
+  - first:
+      213: 1009574492492110381
+    second: employee 1_28
+  - first:
+      213: 365320059174563588
+    second: employee 1_29
+  - first:
+      213: 8901526207071515207
+    second: employee 1_30
+  - first:
+      213: -2399829311917964632
+    second: employee 1_31
+  - first:
+      213: -9026928678775927449
+    second: employee 1_32
+  - first:
+      213: 4130918491424513578
+    second: employee 1_33
+  - first:
+      213: 4080690364404864348
+    second: employee 1_34
+  - first:
+      213: 7592797677123920229
+    second: employee 1_35
+  - first:
+      213: 6164102430814476493
+    second: employee 1_36
+  - first:
+      213: 875618188939370969
+    second: employee 1_37
+  - first:
+      213: -2424928545847356280
+    second: employee 1_38
+  - first:
+      213: 2484926002264491891
+    second: employee 1_39
+  - first:
+      213: 3474968635397555554
+    second: employee_1_0
+  - first:
+      213: -4384970010244234772
+    second: employee_1_1
+  - first:
+      213: 2063760591503286396
+    second: employee_1_2
+  - first:
+      213: -4016591120002092007
+    second: employee_1_3
+  - first:
+      213: 1210230368205053566
+    second: employee_1_4
+  - first:
+      213: 6322566424813560912
+    second: employee_1_5
+  - first:
+      213: 7499457361311574435
+    second: employee_1_6
+  - first:
+      213: 7794803405903251303
+    second: employee_1_7
+  - first:
+      213: 5351407515496575068
+    second: employee_1_8
+  - first:
+      213: 5713371630564839697
+    second: employee_1_9
+  - first:
+      213: -1731475686282444158
+    second: employee_1_10
+  - first:
+      213: -7541158809063053403
+    second: employee_1_11
+  - first:
+      213: 6633741606734493629
+    second: employee_1_12
+  - first:
+      213: 1397519133714516360
+    second: employee_1_13
+  - first:
+      213: -5574860885561411812
+    second: employee_1_14
+  - first:
+      213: -8783591778952911521
+    second: employee_1_15
+  - first:
+      213: 1864359253146576154
+    second: employee_1_16
+  - first:
+      213: 2972549982360792114
+    second: employee_1_17
+  - first:
+      213: -3838325903644375150
+    second: employee_1_18
+  - first:
+      213: -6271312016515967052
+    second: employee_1_19
+  - first:
+      213: -334326076469743833
+    second: employee_1_20
+  - first:
+      213: -8812793394779892035
+    second: employee_1_21
+  - first:
+      213: -4595918071192108039
+    second: employee_1_22
+  - first:
+      213: 2230026982131137222
+    second: employee_1_23
+  - first:
+      213: 2659859472432114269
+    second: employee_1_24
+  - first:
+      213: 1947773466276516276
+    second: employee_1_25
+  - first:
+      213: -3359848771640081889
+    second: employee_1_26
+  - first:
+      213: -7986365446167798973
+    second: employee_1_27
+  - first:
+      213: 2867090049792337817
+    second: employee_1_28
+  - first:
+      213: -1362699903757047050
+    second: employee_1_29
+  - first:
+      213: -7634301660037613352
+    second: employee_1_30
+  - first:
+      213: 3928803761523422007
+    second: employee_1_31
+  - first:
+      213: -2710048099107433989
+    second: employee_1_32
+  - first:
+      213: 6009944240816382520
+    second: employee_1_33
+  - first:
+      213: 5871740874206651278
+    second: employee_1_34
+  - first:
+      213: -6835545242674216974
+    second: employee_1_35
+  - first:
+      213: 8865834669014010939
+    second: employee_1_36
+  - first:
+      213: 7691044186483727929
+    second: employee_1_37
+  - first:
+      213: -4324866982700421014
+    second: employee_1_38
+  - first:
+      213: 2474042241475851420
+    second: employee_1_39
+  - first:
+      213: -7675262176189822710
+    second: employee_0
+  - first:
+      213: -1970426948978739728
+    second: employee_1
+  - first:
+      213: -8079922486886326640
+    second: employee_2
+  - first:
+      213: 7244234328429654103
+    second: employee_3
+  - first:
+      213: -363166027123887743
+    second: employee_4
+  - first:
+      213: -8240194985494275707
+    second: employee_5
+  - first:
+      213: -2182485631569771429
+    second: employee_6
+  - first:
+      213: -3811895825151713325
+    second: employee_7
+  - first:
+      213: 8987513979932534599
+    second: employee_8
+  - first:
+      213: 5412074937793396490
+    second: employee_9
+  - first:
+      213: -9012250265405201858
+    second: employee_10
+  - first:
+      213: 7909746523702973704
+    second: employee_11
+  - first:
+      213: -9076186227972108757
+    second: employee_12
+  - first:
+      213: 4579705713212101263
+    second: employee_13
+  - first:
+      213: -6382295414296474115
+    second: employee_14
+  - first:
+      213: -4004498013117022204
+    second: employee_15
+  - first:
+      213: -1555308170424169183
+    second: employee_16
+  - first:
+      213: -7387242494511513272
+    second: employee_17
+  - first:
+      213: -4485367646730079901
+    second: employee_18
+  - first:
+      213: -2118421824316985630
+    second: employee_19
+  - first:
+      213: 805821201938468956
+    second: employee_20
+  - first:
+      213: 5546755346315989104
+    second: employee_21
+  - first:
+      213: -3520075264138004387
+    second: employee_22
+  - first:
+      213: 7060749463831688399
+    second: employee_23
+  - first:
+      213: -5567293549567984661
+    second: employee_24
+  - first:
+      213: 931489577663686226
+    second: employee_25
+  - first:
+      213: 513997656950936907
+    second: employee_26
+  - first:
+      213: -8248568475278268450
+    second: employee_27
+  - first:
+      213: 2988589334780651853
+    second: employee_28
+  - first:
+      213: -3504914764203190766
+    second: employee_29
+  - first:
+      213: 4078015843317104036
+    second: employee_30
+  - first:
+      213: 8365949981960936929
+    second: employee_31
+  - first:
+      213: 1567855259104503615
+    second: employee_32
+  - first:
+      213: 3644555987183546015
+    second: employee_33
+  - first:
+      213: 6265824510861842146
+    second: employee_34
+  - first:
+      213: 2069910405667786010
+    second: employee_35
+  - first:
+      213: 7214223643075822684
+    second: employee_36
+  - first:
+      213: -5903222860379276089
+    second: employee_37
+  - first:
+      213: -2114842293633762675
+    second: employee_38
+  - first:
+      213: 4957111066625427096
+    second: employee_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: employee_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ae3838df1884a8291a0a71b1da763e
+      internalID: -7675262176189822710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d76fe8c18c40a3a38ce6228c77ec9
+      internalID: -1970426948978739728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c474f674e2340fba249bc139d8f896
+      internalID: -8079922486886326640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916bba434a3424c00ad8aca38b4494fb
+      internalID: 7244234328429654103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7feea5af5264d219b0e8b050ddb2b0
+      internalID: -363166027123887743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79222cd14619747ed864920d4bd405c9
+      internalID: -8240194985494275707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4881efe90d1a44110984192e70bdd7ce
+      internalID: -2182485631569771429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6cdca64b1da4806a7c4c6d8dd44fe3
+      internalID: -3811895825151713325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b617da318c5144d9890a114dda3f56b
+      internalID: 8987513979932534599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 103
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931ffd167137c405ba48c10dc9f99e6f
+      internalID: 5412074937793396490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799f18a1fbf5948a18357f3bb080df85
+      internalID: -9012250265405201858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d41df452e0e426f8ddf4a9eadf50c2
+      internalID: 7909746523702973704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d5726c42eb40c68a04e8c97644362
+      internalID: -9076186227972108757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643bfb7bf1ca04910a601bcf2f697a68
+      internalID: 4579705713212101263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea526bec25b8458389d3e810d91f9a9
+      internalID: -6382295414296474115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc9743c2e2e94b8b8575ea323618efd
+      internalID: -4004498013117022204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d425887982834fa08b8e6851ca67fc5
+      internalID: -1555308170424169183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916846e08808b40b4a02817c47dd607a
+      internalID: -7387242494511513272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aead64d1de8245608fed669cc350552
+      internalID: -4485367646730079901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbf2f56414a44e5391adff4934d918e
+      internalID: -2118421824316985630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b10bbe33b7b405f938c6961fca0e7c
+      internalID: 805821201938468956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dba7038487ca4e4eb5621f3b8973b80
+      internalID: 5546755346315989104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0881b39cbdf0e40adb94d26204e93d0a
+      internalID: -3520075264138004387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a580a171afd44b59bdcf668e93d0d4
+      internalID: 7060749463831688399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146a47ea9be1144cc8121f6823bdae51
+      internalID: -5567293549567984661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa92e1a8fbe14ff3a739635f77af5a5
+      internalID: 931489577663686226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a5bd408c8b4d978f7ff661f380ff3
+      internalID: 513997656950936907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a9d3496100c47dca3777ae77247488
+      internalID: -8248568475278268450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa45275126c9445caa309ef0a40f1b4
+      internalID: 2988589334780651853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 39
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c814061bb0144dbf8fbc2d813621dae
+      internalID: -3504914764203190766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b6bdf6611d54ba6ad59c7f8570f426
+      internalID: 4078015843317104036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0664b6906f6104db48642be6bdc0fdac
+      internalID: 8365949981960936929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a85dbeed786c4a2d9cdd8f20f1c5655
+      internalID: 1567855259104503615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab9ff9d114a845c2a7173b14b22c271
+      internalID: 3644555987183546015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85433672c8bb424db7999168e65429b
+      internalID: 6265824510861842146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89000b2e1f3414c418665e7a932298ea
+      internalID: 2069910405667786010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621da16395f1d41b0b4c713c57b85b13
+      internalID: 7214223643075822684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc5627d1c0504a57a3d029bf84182ad
+      internalID: -5903222860379276089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada16b915831d4acb9cd1544ccb01e85
+      internalID: -2114842293633762675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: employee_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97b9a0b97bb4690a2c38750ed0bf10
+      internalID: 4957111066625427096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

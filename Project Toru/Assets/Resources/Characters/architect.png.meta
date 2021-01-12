@@ -1,0 +1,1993 @@
+fileFormatVersion: 2
+guid: 97285caa9ec63426d940b76638bff453
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2276525478399547786
+    second: architectwithgun_0
+  - first:
+      213: 1116915833707064579
+    second: architectwithgun_1
+  - first:
+      213: -4931116199767169678
+    second: architectwithgun_2
+  - first:
+      213: -4878261869586954029
+    second: architectwithgun_3
+  - first:
+      213: 3604822443364549893
+    second: architectwithgun_4
+  - first:
+      213: -4423996372807343178
+    second: architectwithgun_5
+  - first:
+      213: 5450135399914992845
+    second: architectwithgun_6
+  - first:
+      213: -8758694244668583218
+    second: architectwithgun_7
+  - first:
+      213: 753277552635507630
+    second: architectwithgun_8
+  - first:
+      213: 8335688317374777862
+    second: architectwithgun_9
+  - first:
+      213: 1416885346376556893
+    second: architectwithgun_10
+  - first:
+      213: 5403690464116111169
+    second: architectwithgun_11
+  - first:
+      213: 7767182765889060436
+    second: architectwithgun_12
+  - first:
+      213: -7919648339232132333
+    second: architectwithgun_13
+  - first:
+      213: -3539673218778186950
+    second: architectwithgun_14
+  - first:
+      213: 2954617249366134796
+    second: architectwithgun_15
+  - first:
+      213: 6069643854557864280
+    second: architectwithgun_16
+  - first:
+      213: -7494747771251426789
+    second: architectwithgun_17
+  - first:
+      213: 2335298518994957670
+    second: architectwithgun_18
+  - first:
+      213: -3296204045000407234
+    second: architectwithgun_19
+  - first:
+      213: -1406506512271613167
+    second: architectwithgun_20
+  - first:
+      213: 6792439906699239092
+    second: architectwithgun_21
+  - first:
+      213: -3420149181979028587
+    second: architectwithgun_22
+  - first:
+      213: -6860935611858393
+    second: architectwithgun_23
+  - first:
+      213: -3673551945183730660
+    second: architectwithgun_24
+  - first:
+      213: 7064075873935943678
+    second: architectwithgun_25
+  - first:
+      213: 5228233976386165686
+    second: architectwithgun_26
+  - first:
+      213: 6294862301574725622
+    second: architectwithgun_27
+  - first:
+      213: 9131430313807718720
+    second: architectwithgun_28
+  - first:
+      213: 7365731854816744479
+    second: architectwithgun_29
+  - first:
+      213: 7763973584091012858
+    second: architectwithgun_30
+  - first:
+      213: -6007356469388240476
+    second: architectwithgun_31
+  - first:
+      213: -678488906493363985
+    second: architectwithgun_32
+  - first:
+      213: -2924232543082790626
+    second: architectwithgun_33
+  - first:
+      213: -5999284456515411692
+    second: architectwithgun_34
+  - first:
+      213: 8827868380104857883
+    second: architectwithgun_35
+  - first:
+      213: 8218373393187282910
+    second: architectwithgun_36
+  - first:
+      213: 6349628180320693775
+    second: architectwithgun_37
+  - first:
+      213: 9087564233648700131
+    second: architectwithgun_38
+  - first:
+      213: 5759985224842028729
+    second: architectwithgun_39
+  - first:
+      213: 512411173935783519
+    second: architectwithgun_40
+  - first:
+      213: 749829136314672635
+    second: architectwithgun_41
+  - first:
+      213: -1521869627137631352
+    second: architectwithgun_42
+  - first:
+      213: -4411241686476163418
+    second: architectwithgun_43
+  - first:
+      213: 7992455980548620824
+    second: architectwithgun_44
+  - first:
+      213: -5652068530166326600
+    second: architectwithgun_45
+  - first:
+      213: 7511843983610323623
+    second: architectwithgun_46
+  - first:
+      213: -4435074857442179876
+    second: architectwithgun_47
+  - first:
+      213: 7803131501963804421
+    second: architectwithgun_48
+  - first:
+      213: -9026612989841528081
+    second: architectwithgun_49
+  - first:
+      213: -8709729084044724354
+    second: architectwithgun_50
+  - first:
+      213: 1137839710377290211
+    second: architectwithgun_51
+  - first:
+      213: 6809345988925207479
+    second: architectwithgun_52
+  - first:
+      213: 4392812189253684364
+    second: architectwithgun_53
+  - first:
+      213: -1606943245268478981
+    second: architectwithgun_54
+  - first:
+      213: -60708521936718056
+    second: architectwithgun_55
+  - first:
+      213: 2885316526329682099
+    second: architectwithgun_56
+  - first:
+      213: 4944329873876357479
+    second: architectwithgun_57
+  - first:
+      213: -7877527599057933911
+    second: architect_gun_0
+  - first:
+      213: -5225386509228108758
+    second: architect_gun_1
+  - first:
+      213: 7313159934268217222
+    second: architect_gun_2
+  - first:
+      213: -871876209539515028
+    second: architect_gun_3
+  - first:
+      213: 1610994687606224104
+    second: architect_gun_4
+  - first:
+      213: 4608112900727588414
+    second: architect_gun_5
+  - first:
+      213: 2684727654230188858
+    second: architect_gun_6
+  - first:
+      213: 735764224802095790
+    second: architect_gun_7
+  - first:
+      213: 7329536795596494332
+    second: architect_gun_8
+  - first:
+      213: 6615917274584562973
+    second: architect_gun_9
+  - first:
+      213: -3073938793439950972
+    second: architect_gun_10
+  - first:
+      213: -3628522980014264704
+    second: architect_gun_11
+  - first:
+      213: 231679732277713457
+    second: architect_gun_12
+  - first:
+      213: 6454322886132211176
+    second: architect_gun_13
+  - first:
+      213: -409784728358995318
+    second: architect_gun_14
+  - first:
+      213: 2917193940667745169
+    second: architect_gun_15
+  - first:
+      213: 8569588786877114865
+    second: architect_gun_16
+  - first:
+      213: 3631910816653230059
+    second: architect_gun_17
+  - first:
+      213: 812227606294455556
+    second: architect_gun_18
+  - first:
+      213: -4896253477680371245
+    second: architect_gun_19
+  - first:
+      213: 3002986235793779998
+    second: architect_gun_20
+  - first:
+      213: -4266929886531792432
+    second: architect_gun_21
+  - first:
+      213: 9045408559207165102
+    second: architect_gun_22
+  - first:
+      213: -6785507168105823645
+    second: architect_gun_23
+  - first:
+      213: 1195174990175187743
+    second: architect_gun_24
+  - first:
+      213: -7014169790395635104
+    second: architect_gun_25
+  - first:
+      213: -1040392612353624566
+    second: architect_gun_26
+  - first:
+      213: 2660798598045181776
+    second: architect_gun_27
+  - first:
+      213: 5285495207133131631
+    second: architect_gun_28
+  - first:
+      213: 5659291161795375886
+    second: architect_gun_29
+  - first:
+      213: -881265791300999944
+    second: architect_gun_30
+  - first:
+      213: 1723944295236059967
+    second: architect_gun_31
+  - first:
+      213: -6548471076692666020
+    second: architect_gun_32
+  - first:
+      213: -1205095032241560153
+    second: architect_gun_33
+  - first:
+      213: 3440663530911146345
+    second: architect_gun_34
+  - first:
+      213: -4327451507779159714
+    second: architect_gun_35
+  - first:
+      213: 4133663907531500890
+    second: architect_gun_36
+  - first:
+      213: -3209260889030271659
+    second: architect_gun_37
+  - first:
+      213: -1380451962134643805
+    second: architect_gun_38
+  - first:
+      213: 2470753482750952667
+    second: architect_gun_39
+  - first:
+      213: 8368292192149958607
+    second: architect_gun_40
+  - first:
+      213: -8712752215529517633
+    second: architect_gun_41
+  - first:
+      213: -2461799940561466714
+    second: architect_gun_42
+  - first:
+      213: -7727109379629617003
+    second: architect_gun_43
+  - first:
+      213: -7032007805609800206
+    second: architect_gun_44
+  - first:
+      213: 3850505738388461542
+    second: architect_gun_45
+  - first:
+      213: -3635103905076962413
+    second: architect_gun_46
+  - first:
+      213: -5990691059917172311
+    second: architect_gun_47
+  - first:
+      213: 6414557398502828701
+    second: architect_gun_48
+  - first:
+      213: 1988548372234553637
+    second: architect_gun_49
+  - first:
+      213: 4027164124325503384
+    second: architect_gun_50
+  - first:
+      213: 3648804547024200355
+    second: architect_gun_51
+  - first:
+      213: 3254099745339412522
+    second: architect_gun_52
+  - first:
+      213: 5534695218703818061
+    second: architect_gun_53
+  - first:
+      213: 2065359160762081817
+    second: architect_gun_54
+  - first:
+      213: 3685971745471780107
+    second: architect_gun_55
+  - first:
+      213: -1109580689532800312
+    second: architect_gun_56
+  - first:
+      213: 8453404738009195415
+    second: architect_gun_57
+  - first:
+      213: 3461593138948554442
+    second: Architect_0
+  - first:
+      213: -8202786638745068030
+    second: Architect_1
+  - first:
+      213: -7827652729620291184
+    second: Architect_2
+  - first:
+      213: 1967609731229099548
+    second: Architect_3
+  - first:
+      213: 937311669385480598
+    second: Architect_4
+  - first:
+      213: -8106935083786100471
+    second: Architect_5
+  - first:
+      213: -416490244752300297
+    second: Architect_6
+  - first:
+      213: -960167714502166542
+    second: Architect_7
+  - first:
+      213: 7659352829229077957
+    second: Architect_8
+  - first:
+      213: -5266359993474802434
+    second: Architect_9
+  - first:
+      213: 8488591408998040353
+    second: Architect_10
+  - first:
+      213: -6370172436604220174
+    second: Architect_11
+  - first:
+      213: -3509395095961107051
+    second: Architect_12
+  - first:
+      213: 3535125443377146359
+    second: Architect_13
+  - first:
+      213: 8939243254120703888
+    second: Architect_14
+  - first:
+      213: 4131202435927201759
+    second: Architect_15
+  - first:
+      213: -8513167907156133010
+    second: Architect_16
+  - first:
+      213: -8515008824019348682
+    second: Architect_17
+  - first:
+      213: -3578576520459626023
+    second: Architect_18
+  - first:
+      213: 6421025539430310482
+    second: Architect_19
+  - first:
+      213: -3114304662072961877
+    second: Architect_20
+  - first:
+      213: 8608240462363821902
+    second: Architect_21
+  - first:
+      213: -4085978594262978434
+    second: Architect_22
+  - first:
+      213: 4625342764600961479
+    second: Architect_23
+  - first:
+      213: -7917683649776357038
+    second: Architect_24
+  - first:
+      213: -6174977414787032627
+    second: Architect_25
+  - first:
+      213: 2452386708809893908
+    second: Architect_26
+  - first:
+      213: 7953888941274131138
+    second: Architect_27
+  - first:
+      213: -957397486677398608
+    second: Architect_28
+  - first:
+      213: -5511939961042290456
+    second: Architect_29
+  - first:
+      213: -7746263537137112971
+    second: Architect_30
+  - first:
+      213: 994584261935123814
+    second: Architect_31
+  - first:
+      213: 6340611776056261086
+    second: Architect_32
+  - first:
+      213: 7018643256488559788
+    second: Architect_33
+  - first:
+      213: -6236201024867820363
+    second: Architect_34
+  - first:
+      213: -7247365158114037621
+    second: Architect_35
+  - first:
+      213: -8532104479896293593
+    second: Architect_36
+  - first:
+      213: 7908938507824162375
+    second: Architect_37
+  - first:
+      213: 1462974761780443060
+    second: Architect_38
+  - first:
+      213: 8408631671498472624
+    second: Architect_39
+  - first:
+      213: 7270275925835909807
+    second: Architect_40
+  - first:
+      213: -7586553640837937409
+    second: Architect_41
+  - first:
+      213: 5454927170026869616
+    second: Architect_42
+  - first:
+      213: 5227434538097121712
+    second: Architect_43
+  - first:
+      213: -1657376960430534379
+    second: Architect_44
+  - first:
+      213: 6058887029602375235
+    second: Architect_45
+  - first:
+      213: -5404979264735750438
+    second: Architect_46
+  - first:
+      213: -3749437087066325806
+    second: Architect_47
+  - first:
+      213: 4913621204989705537
+    second: Architect_48
+  - first:
+      213: -4712099561244941312
+    second: Architect_49
+  - first:
+      213: -1694181003444546987
+    second: Architect_50
+  - first:
+      213: -699466687290652449
+    second: Architect_51
+  - first:
+      213: 4479055135992455534
+    second: Architect_52
+  - first:
+      213: 3375371428888032622
+    second: Architect_53
+  - first:
+      213: 4401473247920199100
+    second: Architect_54
+  - first:
+      213: -849201647667196678
+    second: Architect_55
+  - first:
+      213: -3193823729828357397
+    second: Architect_56
+  - first:
+      213: -2205884736831905710
+    second: Architect_57
+  - first:
+      213: 8741911621197384018
+    second: architect_0
+  - first:
+      213: 7715513369229799280
+    second: architect_1
+  - first:
+      213: 514084597526428255
+    second: architect_2
+  - first:
+      213: -5096292704930810938
+    second: architect_3
+  - first:
+      213: 6083193295607135625
+    second: architect_4
+  - first:
+      213: 5653836661643122561
+    second: architect_5
+  - first:
+      213: 430690253464213099
+    second: architect_6
+  - first:
+      213: -8060632205325383811
+    second: architect_7
+  - first:
+      213: -8554061188379879157
+    second: architect_8
+  - first:
+      213: -2826015756984337234
+    second: architect_9
+  - first:
+      213: -575561873992284891
+    second: architect_10
+  - first:
+      213: 9105817251024854197
+    second: architect_11
+  - first:
+      213: 7190890879266658421
+    second: architect_12
+  - first:
+      213: -6154102050353507962
+    second: architect_13
+  - first:
+      213: -7915326824734193090
+    second: architect_14
+  - first:
+      213: 988134137452256734
+    second: architect_15
+  - first:
+      213: 7087410331800425802
+    second: architect_16
+  - first:
+      213: -4841228554867612319
+    second: architect_17
+  - first:
+      213: -8404392424928581430
+    second: architect_18
+  - first:
+      213: -6409095475758095270
+    second: architect_19
+  - first:
+      213: 7143996783105134095
+    second: architect_20
+  - first:
+      213: 3280789749891753325
+    second: architect_21
+  - first:
+      213: 5270212811368836720
+    second: architect_22
+  - first:
+      213: -7969629308472685304
+    second: architect_23
+  - first:
+      213: 3966275930358293477
+    second: architect_24
+  - first:
+      213: 8228952814615044065
+    second: architect_25
+  - first:
+      213: -7031461575520946240
+    second: architect_26
+  - first:
+      213: -5393891701430043100
+    second: architect_27
+  - first:
+      213: 250783011543789589
+    second: architect_28
+  - first:
+      213: 5533217705863808990
+    second: architect_29
+  - first:
+      213: 9120673513874834067
+    second: architect_30
+  - first:
+      213: 118997625650054179
+    second: architect_31
+  - first:
+      213: 892454560487403728
+    second: architect_32
+  - first:
+      213: 1872510850873817728
+    second: architect_33
+  - first:
+      213: -29453960636298180
+    second: architect_34
+  - first:
+      213: -4332088651124705522
+    second: architect_35
+  - first:
+      213: -5844932204534902307
+    second: architect_36
+  - first:
+      213: 1166957989223821930
+    second: architect_37
+  - first:
+      213: 828301806894235417
+    second: architect_38
+  - first:
+      213: -3169184320531257778
+    second: architect_39
+  - first:
+      213: -2326736327100306701
+    second: architect_40
+  - first:
+      213: 7595198938267781498
+    second: architect_41
+  - first:
+      213: -5109205063722039517
+    second: architect_42
+  - first:
+      213: 8832218492182924163
+    second: architect_43
+  - first:
+      213: -7249717772800299159
+    second: architect_44
+  - first:
+      213: 9150939585110816078
+    second: architect_45
+  - first:
+      213: -8314742998557410561
+    second: architect_46
+  - first:
+      213: 779144616340527647
+    second: architect_47
+  - first:
+      213: -5854618076870146088
+    second: architect_48
+  - first:
+      213: 2174164501398457830
+    second: architect_49
+  - first:
+      213: 6116376755732309986
+    second: architect_50
+  - first:
+      213: 8928648511456404813
+    second: architect_51
+  - first:
+      213: -3583579165554950621
+    second: architect_52
+  - first:
+      213: 7997857168947353018
+    second: architect_53
+  - first:
+      213: -5741166720673684443
+    second: architect_54
+  - first:
+      213: -7634129863241448228
+    second: architect_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: architect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac411516f3434ec5828c9f406010d1b
+      internalID: 8741911621197384018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e588a2e1e551d4c2c8825635dae3f933
+      internalID: 7715513369229799280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e85117c7dee14119bbeb3ce1bfee690
+      internalID: 514084597526428255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f51e25b334403b8c7dcd2e740d416
+      internalID: -5096292704930810938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c02608a214614ea4ac9f6e4608fa790
+      internalID: 6083193295607135625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66ee63121f764054a26247bd21731eb
+      internalID: 5653836661643122561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c37d79a9539461e995af4088b298dd
+      internalID: 430690253464213099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b2c579aeea4d39b617d217366dc37
+      internalID: -8060632205325383811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedfcdca2f2154e82899ef54af9f64b2
+      internalID: -8554061188379879157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1b1dbbe0e94a6babaa4234be21cf0
+      internalID: -2826015756984337234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593a29ec8b064763a4baa3bb14837f5
+      internalID: -575561873992284891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a61d794815f5415f94199b07e999553
+      internalID: 9105817251024854197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f875d3338fe7c40b4bd1854fc583c668
+      internalID: 7190890879266658421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753284e21a1c54dd7b1d50a9a277dc29
+      internalID: -6154102050353507962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0dcd0cae66f494092eaad603bcf75e
+      internalID: -7915326824734193090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361a87f6929c84028972ad9240a96d36
+      internalID: 988134137452256734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffdba60d8d994b38b38ad9d5e342079
+      internalID: 7087410331800425802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de592870e09d742f5a7861e6130d823b
+      internalID: -4841228554867612319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa83f45ab0a34c48bc7f17071c15280
+      internalID: -8404392424928581430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aee06c6279b47dfba906d893896a8d
+      internalID: -6409095475758095270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f63e414561d4c7d9886d00f629efc8
+      internalID: 7143996783105134095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86edd67aef01d4f4a90ff05b499a646b
+      internalID: 3280789749891753325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b7410cb3f524178b1eebc81d680462
+      internalID: 5270212811368836720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8559ce5d6c93f48c697c5fd17b250ac0
+      internalID: -7969629308472685304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ca8ad7e11d46a38e24e57ca934292
+      internalID: 3966275930358293477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6968027cf2474416a2dd0f31cb0a209
+      internalID: 8228952814615044065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c58a32ec35b4496a5d0d0710242737
+      internalID: -7031461575520946240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2901341c85f564cb79862094d5a1923f
+      internalID: -5393891701430043100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938e03c523d34bb48920b43838f7853
+      internalID: 250783011543789589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb67a12393f4c03a639ec33f7ebc82
+      internalID: 5533217705863808990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0028198751b4410283c7b2db4579d77
+      internalID: 9120673513874834067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eac7fe6fccdb441495a4248bf2db970
+      internalID: 118997625650054179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40883e37740b24e54b005324194574ab
+      internalID: 892454560487403728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7224010ca1ae4bb09293c3d105bc4ad
+      internalID: 1872510850873817728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83ea51d6f914b4295607d49e9f44b4
+      internalID: -29453960636298180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c839f8dea5f74465e8feefbfba4caba4
+      internalID: -4332088651124705522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22307d07dae349d2ae6a8b18c9eff68
+      internalID: -5844932204534902307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6213c7e62d9c4a1d8ecb5aafe57e083
+      internalID: 1166957989223821930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8bc4ef94634bde8d31c4761c0f5f3
+      internalID: 828301806894235417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de1a937bdeb4d2baafbe8cf25a9561
+      internalID: -3169184320531257778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2206538db19645d684e93f643c54320
+      internalID: -2326736327100306701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d729f13364484af8969178ccfe28c51
+      internalID: 7595198938267781498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a621e8d9faf944d38f14bfe5315d787
+      internalID: -5109205063722039517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d251e3b4989a4d2cbf3372bd63151c5
+      internalID: 8832218492182924163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bdcb8fa3c4c4f829253abc7d758081
+      internalID: -7249717772800299159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1fb7bbfa40d4eb0b29f7350947a0b7
+      internalID: 9150939585110816078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72919b947672f42cc9f826c9d6347df6
+      internalID: -8314742998557410561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9ab1445a1ce4f15a7d806fa632b960
+      internalID: 779144616340527647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bd19736aa9447b58e65950728b6fec
+      internalID: -5854618076870146088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32113b24d4604579aacdc250d5ffd13
+      internalID: 2174164501398457830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1d1f98b3914c5da505f595c063c7e
+      internalID: 6116376755732309986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ff37626a1a498b87b4fe37f7bc11f
+      internalID: 8928648511456404813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68254ac5f909f4566ad9527d8bc160d7
+      internalID: -3583579165554950621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d43185690c43149809337d7650452
+      internalID: 7997857168947353018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7496d32677421404cabbcde86db3f547
+      internalID: -5741166720673684443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: architect_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a86f4bbf46f417780609a4aea44124
+      internalID: -7634129863241448228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

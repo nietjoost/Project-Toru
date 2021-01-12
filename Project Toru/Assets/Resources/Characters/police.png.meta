@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 4ec4dc338b55e495da5b6ccbe24089ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8596606967632686768
+    second: policewithgun_0
+  - first:
+      213: 608023881512019228
+    second: policewithgun_1
+  - first:
+      213: 6145365398629477048
+    second: policewithgun_2
+  - first:
+      213: 5751766895462930573
+    second: policewithgun_3
+  - first:
+      213: 7193741487418463040
+    second: policewithgun_4
+  - first:
+      213: -4338578560921490984
+    second: policewithgun_5
+  - first:
+      213: 3347404432887266050
+    second: policewithgun_6
+  - first:
+      213: 6166642927393555979
+    second: policewithgun_7
+  - first:
+      213: -4413489123289826543
+    second: policewithgun_8
+  - first:
+      213: -4742178927492797706
+    second: policewithgun_9
+  - first:
+      213: -4551095299208508223
+    second: policewithgun_10
+  - first:
+      213: -751054916345647846
+    second: policewithgun_11
+  - first:
+      213: 46127899005097664
+    second: policewithgun_12
+  - first:
+      213: -4749687308574761404
+    second: policewithgun_13
+  - first:
+      213: -5493457996565996902
+    second: policewithgun_14
+  - first:
+      213: -2705708345481378689
+    second: policewithgun_15
+  - first:
+      213: 8017610979391186245
+    second: policewithgun_16
+  - first:
+      213: -8696558095477070765
+    second: policewithgun_17
+  - first:
+      213: 2945013843518077532
+    second: policewithgun_18
+  - first:
+      213: 1068496671097569072
+    second: policewithgun_19
+  - first:
+      213: -2832976912152862965
+    second: policewithgun_20
+  - first:
+      213: -8327881323128675814
+    second: policewithgun_21
+  - first:
+      213: 2287485772165749703
+    second: policewithgun_22
+  - first:
+      213: 3774659274395007808
+    second: policewithgun_23
+  - first:
+      213: 8138011896724580297
+    second: policewithgun_24
+  - first:
+      213: -681779158192336377
+    second: policewithgun_25
+  - first:
+      213: 7192855582008541459
+    second: policewithgun_26
+  - first:
+      213: 7295455871227648813
+    second: policewithgun_27
+  - first:
+      213: -3911507483507035942
+    second: policewithgun_28
+  - first:
+      213: 3093756006125432839
+    second: policewithgun_29
+  - first:
+      213: 4566395862316639549
+    second: policewithgun_30
+  - first:
+      213: -5464731040011041806
+    second: policewithgun_31
+  - first:
+      213: 8858920746257698431
+    second: policewithgun_32
+  - first:
+      213: 6951884135776957407
+    second: policewithgun_33
+  - first:
+      213: -5104141956324785070
+    second: policewithgun_34
+  - first:
+      213: -3787007533794526718
+    second: policewithgun_35
+  - first:
+      213: -5697150570535182688
+    second: policewithgun_36
+  - first:
+      213: -658677553621107529
+    second: policewithgun_37
+  - first:
+      213: -2255507864990862798
+    second: policewithgun_38
+  - first:
+      213: 5166108467775257412
+    second: policewithgun_39
+  - first:
+      213: 8229029361145792157
+    second: policewithgun_40
+  - first:
+      213: -5759962657828308145
+    second: policewithgun_41
+  - first:
+      213: -2087238253850784182
+    second: policewithgun_42
+  - first:
+      213: 8419516745349729116
+    second: policewithgun_43
+  - first:
+      213: -7569416888093654169
+    second: policewithgun_44
+  - first:
+      213: -1369210625386763037
+    second: policewithgun_45
+  - first:
+      213: 2709090706305786364
+    second: policewithgun_46
+  - first:
+      213: 9132501878281329597
+    second: policewithgun_47
+  - first:
+      213: 7072390241087302581
+    second: policewithgun_48
+  - first:
+      213: 7891217501190257975
+    second: policewithgun_49
+  - first:
+      213: 1406238690779388954
+    second: policewithgun_50
+  - first:
+      213: -5970895248304406513
+    second: policewithgun_51
+  - first:
+      213: 7800131900493565384
+    second: policewithgun_52
+  - first:
+      213: 288887793055872378
+    second: policewithgun_53
+  - first:
+      213: -4959910222050132085
+    second: policewithgun_54
+  - first:
+      213: -9102651832621839764
+    second: policewithgun_55
+  - first:
+      213: -653480954278173366
+    second: police_gun_0
+  - first:
+      213: 7275773745957599354
+    second: police_gun_1
+  - first:
+      213: -8596041330746540305
+    second: police_gun_2
+  - first:
+      213: 1427314614764353505
+    second: police_gun_3
+  - first:
+      213: -9187027092625043142
+    second: police_gun_4
+  - first:
+      213: 3041063949074835163
+    second: police_gun_5
+  - first:
+      213: 8768295715295936992
+    second: police_gun_6
+  - first:
+      213: -357973040965386696
+    second: police_gun_7
+  - first:
+      213: -3054879845742860841
+    second: police_gun_8
+  - first:
+      213: -191248622210776258
+    second: police_gun_9
+  - first:
+      213: -8939323052890097289
+    second: police_gun_10
+  - first:
+      213: -1227130178861267750
+    second: police_gun_11
+  - first:
+      213: -8052599016646987912
+    second: police_gun_12
+  - first:
+      213: -7689408063865646118
+    second: police_gun_13
+  - first:
+      213: 192230615836112411
+    second: police_gun_14
+  - first:
+      213: -2702804019885094191
+    second: police_gun_15
+  - first:
+      213: -2748039337176186851
+    second: police_gun_16
+  - first:
+      213: 6374181078763039666
+    second: police_gun_17
+  - first:
+      213: 6303042986886880015
+    second: police_gun_18
+  - first:
+      213: -3257209080295401875
+    second: police_gun_19
+  - first:
+      213: 7818565382801674321
+    second: police_gun_20
+  - first:
+      213: 664783138905673828
+    second: police_gun_21
+  - first:
+      213: -8934681577227336664
+    second: police_gun_22
+  - first:
+      213: -1627492596900394500
+    second: police_gun_23
+  - first:
+      213: 7896193491875533667
+    second: police_gun_24
+  - first:
+      213: 94189738381991155
+    second: police_gun_25
+  - first:
+      213: -1822961785267926589
+    second: police_gun_26
+  - first:
+      213: 1455860609803983292
+    second: police_gun_27
+  - first:
+      213: -888204610152801270
+    second: police_gun_28
+  - first:
+      213: -1656890252224607070
+    second: police_gun_29
+  - first:
+      213: -3061643400369491302
+    second: police_gun_30
+  - first:
+      213: -1655934529904727798
+    second: police_gun_31
+  - first:
+      213: -2104748509428538686
+    second: police_gun_32
+  - first:
+      213: -5431591023572968503
+    second: police_gun_33
+  - first:
+      213: -3226905949080133075
+    second: police_gun_34
+  - first:
+      213: -3356521780984339866
+    second: police_gun_35
+  - first:
+      213: -6626408260613073702
+    second: police_gun_36
+  - first:
+      213: -109209691548235178
+    second: police_gun_37
+  - first:
+      213: -8953823467249618141
+    second: police_gun_38
+  - first:
+      213: 5007269796245909681
+    second: police_gun_39
+  - first:
+      213: 5188311544971003139
+    second: police_gun_40
+  - first:
+      213: 4329737901602432294
+    second: police_gun_41
+  - first:
+      213: 8821607024726129605
+    second: police_gun_42
+  - first:
+      213: 5924225602646864839
+    second: police_gun_43
+  - first:
+      213: 1441834954201631512
+    second: police_gun_44
+  - first:
+      213: -4184014902769122222
+    second: police_gun_45
+  - first:
+      213: -3618089826149454245
+    second: police_gun_46
+  - first:
+      213: -439948960440952888
+    second: police_gun_47
+  - first:
+      213: -3337507807930123521
+    second: police_gun_48
+  - first:
+      213: -6536751527175377381
+    second: police_gun_49
+  - first:
+      213: -2966730072159638789
+    second: police_gun_50
+  - first:
+      213: 3112255725541840597
+    second: police_gun_51
+  - first:
+      213: 5177831467659607908
+    second: police_gun_52
+  - first:
+      213: -4050689894336660600
+    second: police_gun_53
+  - first:
+      213: 5156688392215710961
+    second: police_gun_54
+  - first:
+      213: 187094986578037404
+    second: police_gun_55
+  - first:
+      213: 6715957911979874120
+    second: police_0
+  - first:
+      213: 4105265752667475224
+    second: police_1
+  - first:
+      213: 1772789605241533039
+    second: police_2
+  - first:
+      213: 550502714186062493
+    second: police_3
+  - first:
+      213: 8392251543015881282
+    second: police_4
+  - first:
+      213: 7136476955017615810
+    second: police_5
+  - first:
+      213: 8683300853452072709
+    second: police_6
+  - first:
+      213: 4511897752239883826
+    second: police_7
+  - first:
+      213: -1376605700031737032
+    second: police_8
+  - first:
+      213: 3514164850777281865
+    second: police_9
+  - first:
+      213: -4340693182532532254
+    second: police_10
+  - first:
+      213: 4699922754080639230
+    second: police_11
+  - first:
+      213: 5220837438165748882
+    second: police_12
+  - first:
+      213: 6551003124545672466
+    second: police_13
+  - first:
+      213: 6029499112839671272
+    second: police_14
+  - first:
+      213: -4113795272877122675
+    second: police_15
+  - first:
+      213: -6879168447872859267
+    second: police_16
+  - first:
+      213: 1263801198472048178
+    second: police_17
+  - first:
+      213: 3672895353682762790
+    second: police_18
+  - first:
+      213: 401012084490965193
+    second: police_19
+  - first:
+      213: 5319828484626012883
+    second: police_20
+  - first:
+      213: -4685310972739142754
+    second: police_21
+  - first:
+      213: 7702902787179880476
+    second: police_22
+  - first:
+      213: -2878162655343254029
+    second: police_23
+  - first:
+      213: -8914619445971156316
+    second: police_24
+  - first:
+      213: -3782955126304515380
+    second: police_25
+  - first:
+      213: 1018930773692889274
+    second: police_26
+  - first:
+      213: 2929810224321498338
+    second: police_27
+  - first:
+      213: -2043925512051423648
+    second: police_28
+  - first:
+      213: -4032710018379930334
+    second: police_29
+  - first:
+      213: -8684806540605367203
+    second: police_30
+  - first:
+      213: 6277696364077283474
+    second: police_31
+  - first:
+      213: -5146227599136124053
+    second: police_32
+  - first:
+      213: -7785918164570587455
+    second: police_33
+  - first:
+      213: -8909436181986388201
+    second: police_34
+  - first:
+      213: -3155578673079562776
+    second: police_35
+  - first:
+      213: 5577513357685509228
+    second: police_36
+  - first:
+      213: 6059803097674522481
+    second: police_37
+  - first:
+      213: -1495359468569721817
+    second: police_38
+  - first:
+      213: 1747688288345460186
+    second: police_39
+  - first:
+      213: 3757678230671144208
+    second: police_40
+  - first:
+      213: 2374335617504833210
+    second: police_41
+  - first:
+      213: 7990901722753909509
+    second: police_42
+  - first:
+      213: -7944274068686594525
+    second: police_43
+  - first:
+      213: 8422722488245592831
+    second: police_44
+  - first:
+      213: -2325519143173260730
+    second: police_45
+  - first:
+      213: 1851323607541413504
+    second: police_46
+  - first:
+      213: -4280259244064432841
+    second: police_47
+  - first:
+      213: -6901488082491597699
+    second: police_48
+  - first:
+      213: -573434885824699420
+    second: police_49
+  - first:
+      213: -7843482276187302466
+    second: police_50
+  - first:
+      213: 7240788609251150564
+    second: police_51
+  - first:
+      213: -5035061842135541368
+    second: police_52
+  - first:
+      213: 92145102354587394
+    second: police_53
+  - first:
+      213: -4657740457134292028
+    second: police_54
+  - first:
+      213: 8703900010967446721
+    second: police_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: police_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251d42d7aa70148da992a6a0262633a6
+      internalID: 6715957911979874120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45864e09750fd450bb68977ffe9208cb
+      internalID: 4105265752667475224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d7165e66994472a15a063b6cfae20
+      internalID: 1772789605241533039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306b461e444034d30ac948605abc278e
+      internalID: 550502714186062493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8e296b285ee4e648bbf55ee49bb4da
+      internalID: 8392251543015881282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12853381425d475db7ba23508c0d337
+      internalID: 7136476955017615810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f077b7db7a7c4ea894842e013b395dd
+      internalID: 8683300853452072709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a69faf61a05a4181b2107c66002a920
+      internalID: 4511897752239883826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9bf8fe3d4464d80bfa77885d228228
+      internalID: -1376605700031737032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48fa7db4d8d4905a0ee05d64e6daf0
+      internalID: 3514164850777281865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3497f5a070e406d9a3b56a97213e89
+      internalID: -4340693182532532254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f418e44f84e5249bb80a26dcde81d216
+      internalID: 4699922754080639230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0835af78822043fba759044bd3e1804
+      internalID: 5220837438165748882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254caa32b2e28476f971025a6c13839e
+      internalID: 6551003124545672466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14db5921e2b554afaa076540c5b8c99a
+      internalID: 6029499112839671272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282fa611cf78a48e2a24f756e2034cf0
+      internalID: -4113795272877122675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfc7615bc03e4a088a29f014457b32c
+      internalID: -6879168447872859267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e218d2a98a542729203396967afe23
+      internalID: 1263801198472048178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6976694fcfeba4224aa8848b3a646860
+      internalID: 3672895353682762790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722a8d9cd67bc4da783983ec75a79e40
+      internalID: 401012084490965193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985521559cc6d4fb8bc11deed4b47ceb
+      internalID: 5319828484626012883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9a100b72324451b4b6553da6791d1
+      internalID: -4685310972739142754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e9538fb84b47f68df8499e1904389
+      internalID: 7702902787179880476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2092d9840886346a994fa0aea1e24787
+      internalID: -2878162655343254029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d4efaf9f74c482e93b21df730b01a8
+      internalID: -8914619445971156316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de603c677d22b419d8673a77b1ddee79
+      internalID: -3782955126304515380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58771f8920abe46cbac8d31f14a11d63
+      internalID: 1018930773692889274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb29fb7e0691944bfb736ddd0b6f3717
+      internalID: 2929810224321498338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79638d6e7dc114d7fb5ea9b317fd2ed1
+      internalID: -2043925512051423648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e887d216d12d44e5985f5304d69501fa
+      internalID: -4032710018379930334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150d2d07e75af4f939dd5b80cc5b7810
+      internalID: -8684806540605367203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64907ae25349741cab41dec8dd9480b6
+      internalID: 6277696364077283474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827cb23f545824ee396801fcf930d4ab
+      internalID: -5146227599136124053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ed959825eee4202846000700e8e353
+      internalID: -7785918164570587455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45946ec8f5c27462a9557e620c6c8b68
+      internalID: -8909436181986388201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f66f90197341ac9ad8d399551f6fe
+      internalID: -3155578673079562776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4769e600826e74667bbac898e52e8819
+      internalID: 5577513357685509228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1ca8a324bad43b4b65a7c7356d3425
+      internalID: 6059803097674522481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62acf2fac98d64161adbeacfabedfd3f
+      internalID: -1495359468569721817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9965cde0df41746139c282c1cddd15b6
+      internalID: 1747688288345460186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd65ba1f12c4a3296f9427abe24a7f
+      internalID: 3757678230671144208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff46a166fc4004589bbdead32431d711
+      internalID: 2374335617504833210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07621d68fbae946029918bf636d7018e
+      internalID: 7990901722753909509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3816b328cd84621a579fb93c1b618f
+      internalID: -7944274068686594525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf6cdc3b78e49eca79e13f48600d1d
+      internalID: 8422722488245592831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c8b4b93fca450fa855fb71c5aaaca
+      internalID: -2325519143173260730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b67204810cfd40488876e12162e9987
+      internalID: 1851323607541413504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaaa613f414f40ada4f35fa66345a26
+      internalID: -4280259244064432841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1653a2d2db46b4b1d69bf03b8c3d7
+      internalID: -6901488082491597699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0fae406fba54ddab8b354d23fdff3c
+      internalID: -573434885824699420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaf975b9072a40e8b328c62a96cede2
+      internalID: -7843482276187302466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7791099012c81488ca483a346e8bb109
+      internalID: 7240788609251150564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f90d5e8a16f4417a868a43e5eeef81
+      internalID: -5035061842135541368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6d05c863f9b41e08b6f10d45cc7fe6
+      internalID: 92145102354587394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a842c6aafeff94386a6ea3ffcd8ef5ee
+      internalID: -4657740457134292028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: police_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036678bb0a34c4963b87f300dfab6d16
+      internalID: 8703900010967446721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

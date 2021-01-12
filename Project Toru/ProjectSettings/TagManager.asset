@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Stairs
+  - NPC
+  - Room
+  - Inventory
+  - InventorySlotHolder
+  - PositionTarget
+  - Camera
+  - Security Room
+  - levelComplete
+  - CopsSpawnPoint
+  - FPSMonitor
+  - InventoryMoney
+  - LevelManager
+  - Walls
+  - Furniture
+  - PoliceSiren
+  - DialogueManager
+  - Entrance
+  - LevelIntroductionScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backerbackground
+    uniqueID: 3490218283
+    locked: 0
+  - name: Background
+    uniqueID: 2126931023
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 3468499445
+    locked: 0
+  - name: Background Items
+    uniqueID: 3388265027
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 4194868351
+    locked: 0
+  - name: Foreground Items
+    uniqueID: 2965519193
+    locked: 0
+  - name: Guns
+    uniqueID: 1310341817
+    locked: 0
+  - name: FogOfWar
+    uniqueID: 3711346581
+    locked: 0
+  - name: UI
+    uniqueID: 117293569
+    locked: 0

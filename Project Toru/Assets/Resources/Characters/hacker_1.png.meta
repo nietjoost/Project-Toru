@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 870715082ad60480497af474e36bf381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1081922719662269410
+    second: hackerwithgun_0
+  - first:
+      213: 1642935046552903784
+    second: hackerwithgun_1
+  - first:
+      213: 1069131491816267359
+    second: hackerwithgun_2
+  - first:
+      213: -3523392023707685200
+    second: hackerwithgun_3
+  - first:
+      213: 5692061258717794120
+    second: hackerwithgun_4
+  - first:
+      213: -8739568797230962661
+    second: hackerwithgun_5
+  - first:
+      213: -2839244807048907966
+    second: hackerwithgun_6
+  - first:
+      213: 4641563145284259952
+    second: hackerwithgun_7
+  - first:
+      213: -1086339129711841913
+    second: hackerwithgun_8
+  - first:
+      213: -8621913514672409565
+    second: hackerwithgun_9
+  - first:
+      213: 799163892001175954
+    second: hackerwithgun_10
+  - first:
+      213: -1292175717508266283
+    second: hackerwithgun_11
+  - first:
+      213: 3512079621826048755
+    second: hackerwithgun_12
+  - first:
+      213: -6454227635123768083
+    second: hackerwithgun_13
+  - first:
+      213: -3609432096722776277
+    second: hackerwithgun_14
+  - first:
+      213: -4128635028434418288
+    second: hackerwithgun_15
+  - first:
+      213: 1389257410089629430
+    second: hackerwithgun_16
+  - first:
+      213: 1458394645927738925
+    second: hackerwithgun_17
+  - first:
+      213: 8996498455734337112
+    second: hackerwithgun_18
+  - first:
+      213: 139106773927110460
+    second: hackerwithgun_19
+  - first:
+      213: 5959623418048110422
+    second: hackerwithgun_20
+  - first:
+      213: -1112772197629881992
+    second: hackerwithgun_21
+  - first:
+      213: -3481393313226408742
+    second: hackerwithgun_22
+  - first:
+      213: 4142182644960892680
+    second: hackerwithgun_23
+  - first:
+      213: -4154145304890807656
+    second: hackerwithgun_24
+  - first:
+      213: 5042975191226070584
+    second: hackerwithgun_25
+  - first:
+      213: -2961775973324970459
+    second: hackerwithgun_26
+  - first:
+      213: 561140296152147136
+    second: hackerwithgun_27
+  - first:
+      213: -6773997398428163927
+    second: hackerwithgun_28
+  - first:
+      213: 1717231350801530546
+    second: hackerwithgun_29
+  - first:
+      213: -4467733977719464034
+    second: hackerwithgun_30
+  - first:
+      213: -9212098631961705134
+    second: hackerwithgun_31
+  - first:
+      213: 6692195983348356486
+    second: hackerwithgun_32
+  - first:
+      213: 6477097830615592460
+    second: hackerwithgun_33
+  - first:
+      213: -645459986093995185
+    second: hackerwithgun_34
+  - first:
+      213: -7977277466803964416
+    second: hackerwithgun_35
+  - first:
+      213: 551770949342049254
+    second: hackerwithgun_36
+  - first:
+      213: -8406064030748272739
+    second: hackerwithgun_37
+  - first:
+      213: -1336008053850810846
+    second: hackerwithgun_38
+  - first:
+      213: -3329331677556070422
+    second: hackerwithgun_39
+  - first:
+      213: -615310543280010277
+    second: hackerwithgun_40
+  - first:
+      213: 1512827672081500114
+    second: hackerwithgun_41
+  - first:
+      213: -9013483542510939586
+    second: hackerwithgun_42
+  - first:
+      213: -8002713186457228010
+    second: hackerwithgun_43
+  - first:
+      213: -2430499336384838276
+    second: hackerwithgun_44
+  - first:
+      213: 3155493211401943826
+    second: hackerwithgun_45
+  - first:
+      213: 4394169248562828060
+    second: hackerwithgun_46
+  - first:
+      213: -1582787447298693095
+    second: hackerwithgun_47
+  - first:
+      213: 6941126027877322964
+    second: hackerwithgun_48
+  - first:
+      213: 23910122844433489
+    second: hackerwithgun_49
+  - first:
+      213: 7714964966279143058
+    second: hackerwithgun_50
+  - first:
+      213: 5564775913184042540
+    second: hackerwithgun_51
+  - first:
+      213: 426564743037931213
+    second: hackerwithgun_52
+  - first:
+      213: 2453084694070763936
+    second: hackerwithgun_53
+  - first:
+      213: 7115144034958030442
+    second: hackerwithgun_54
+  - first:
+      213: 5371026339681520830
+    second: hackerwithgun_55
+  - first:
+      213: 7394425313588955166
+    second: hacker_gun_0
+  - first:
+      213: 244086125789084130
+    second: hacker_gun_1
+  - first:
+      213: -4180275621279408100
+    second: hacker_gun_2
+  - first:
+      213: -2136473450728410020
+    second: hacker_gun_3
+  - first:
+      213: -7370788809998009933
+    second: hacker_gun_4
+  - first:
+      213: -8341183139893570597
+    second: hacker_gun_5
+  - first:
+      213: 8451310832190795445
+    second: hacker_gun_6
+  - first:
+      213: 3424717539284940249
+    second: hacker_gun_7
+  - first:
+      213: 4543546677616362264
+    second: hacker_gun_8
+  - first:
+      213: -4327512137878033806
+    second: hacker_gun_9
+  - first:
+      213: 2429902374708167448
+    second: hacker_gun_10
+  - first:
+      213: 545756242046507454
+    second: hacker_gun_11
+  - first:
+      213: -7214988403563435586
+    second: hacker_gun_12
+  - first:
+      213: 8627819315553922569
+    second: hacker_gun_13
+  - first:
+      213: -4253672394452343176
+    second: hacker_gun_14
+  - first:
+      213: 4136288401675734539
+    second: hacker_gun_15
+  - first:
+      213: 2867857887376585629
+    second: hacker_gun_16
+  - first:
+      213: 6861026178721224974
+    second: hacker_gun_17
+  - first:
+      213: -5554363818595276719
+    second: hacker_gun_18
+  - first:
+      213: 8506839296800369168
+    second: hacker_gun_19
+  - first:
+      213: 4547118016787940331
+    second: hacker_gun_20
+  - first:
+      213: -5865187507377334262
+    second: hacker_gun_21
+  - first:
+      213: 473468422206289282
+    second: hacker_gun_22
+  - first:
+      213: -3870028726330659493
+    second: hacker_gun_23
+  - first:
+      213: 4077074624792650350
+    second: hacker_gun_24
+  - first:
+      213: 8903316684806791689
+    second: hacker_gun_25
+  - first:
+      213: -8938086237479148723
+    second: hacker_gun_26
+  - first:
+      213: -2732485909367173319
+    second: hacker_gun_27
+  - first:
+      213: 7728653686567256046
+    second: hacker_gun_28
+  - first:
+      213: -5867734506978832755
+    second: hacker_gun_29
+  - first:
+      213: 7261514214857074870
+    second: hacker_gun_30
+  - first:
+      213: -6815471925736138150
+    second: hacker_gun_31
+  - first:
+      213: -4798590730414908948
+    second: hacker_gun_32
+  - first:
+      213: -6996827833883136001
+    second: hacker_gun_33
+  - first:
+      213: 7338978004764310168
+    second: hacker_gun_34
+  - first:
+      213: 3988271812695579432
+    second: hacker_gun_35
+  - first:
+      213: 6639368338616723878
+    second: hacker_gun_36
+  - first:
+      213: -7348000531574185665
+    second: hacker_gun_37
+  - first:
+      213: 471266702626408112
+    second: hacker_gun_38
+  - first:
+      213: 2389808376918303049
+    second: hacker_gun_39
+  - first:
+      213: -4215061441121444423
+    second: hacker_gun_40
+  - first:
+      213: -2343393995066421813
+    second: hacker_gun_41
+  - first:
+      213: -3512664688583346457
+    second: hacker_gun_42
+  - first:
+      213: -8145319064347204271
+    second: hacker_gun_43
+  - first:
+      213: 3816675314882403112
+    second: hacker_gun_44
+  - first:
+      213: 123865335801964346
+    second: hacker_gun_45
+  - first:
+      213: 8263895362993452387
+    second: hacker_gun_46
+  - first:
+      213: -2991806082560659659
+    second: hacker_gun_47
+  - first:
+      213: -4960969299257734060
+    second: hacker_gun_48
+  - first:
+      213: -5911966512641893861
+    second: hacker_gun_49
+  - first:
+      213: -4956375085202490023
+    second: hacker_gun_50
+  - first:
+      213: 7764446852867573336
+    second: hacker_gun_51
+  - first:
+      213: -4084127518447180172
+    second: hacker_gun_52
+  - first:
+      213: 3669499725965405877
+    second: hacker_gun_53
+  - first:
+      213: -4321366318549422972
+    second: hacker_gun_54
+  - first:
+      213: 7517021592472988045
+    second: hacker_gun_55
+  - first:
+      213: -3945820730433682905
+    second: hacker_1_0
+  - first:
+      213: -6610784636425686441
+    second: hacker_1_1
+  - first:
+      213: 3500496089882884922
+    second: hacker_1_2
+  - first:
+      213: -7297346900405110732
+    second: hacker_1_3
+  - first:
+      213: 8267806785403679533
+    second: hacker_1_4
+  - first:
+      213: 1466593461441920544
+    second: hacker_1_5
+  - first:
+      213: 6759177723810059828
+    second: hacker_1_6
+  - first:
+      213: -8359603026112300966
+    second: hacker_1_7
+  - first:
+      213: -796805052081770096
+    second: hacker_1_8
+  - first:
+      213: 2228666670757625870
+    second: hacker_1_9
+  - first:
+      213: 3775898906725598887
+    second: hacker_1_10
+  - first:
+      213: 3150551614504087230
+    second: hacker_1_11
+  - first:
+      213: 2116017128466973344
+    second: hacker_1_12
+  - first:
+      213: 408115600735569101
+    second: hacker_1_13
+  - first:
+      213: 4215412111182641910
+    second: hacker_1_14
+  - first:
+      213: 5502169345161579697
+    second: hacker_1_15
+  - first:
+      213: -8557150885423123839
+    second: hacker_1_16
+  - first:
+      213: -176982582113815944
+    second: hacker_1_17
+  - first:
+      213: -4350797468548795098
+    second: hacker_1_18
+  - first:
+      213: 3441218289970719768
+    second: hacker_1_19
+  - first:
+      213: 2455217514414820146
+    second: hacker_1_20
+  - first:
+      213: -8195832486058170253
+    second: hacker_1_21
+  - first:
+      213: -6131201769685175672
+    second: hacker_1_22
+  - first:
+      213: 1002315875497385735
+    second: hacker_1_23
+  - first:
+      213: -8946502215411716767
+    second: hacker_1_24
+  - first:
+      213: 6809458785782469524
+    second: hacker_1_25
+  - first:
+      213: -3076232638646040727
+    second: hacker_1_26
+  - first:
+      213: 171793189175928703
+    second: hacker_1_27
+  - first:
+      213: 6279545417601034354
+    second: hacker_1_28
+  - first:
+      213: 8256386236723452143
+    second: hacker_1_29
+  - first:
+      213: 3505319553289355116
+    second: hacker_1_30
+  - first:
+      213: -5824890561354403235
+    second: hacker_1_31
+  - first:
+      213: 1038284508894828878
+    second: hacker_1_32
+  - first:
+      213: -7064160112793189301
+    second: hacker_1_33
+  - first:
+      213: 3001311862129496305
+    second: hacker_1_34
+  - first:
+      213: -663489509412929540
+    second: hacker_1_35
+  - first:
+      213: -1313674589848210341
+    second: hacker_1_36
+  - first:
+      213: 6819446017542203495
+    second: hacker_1_37
+  - first:
+      213: 5552181619565349352
+    second: hacker_1_38
+  - first:
+      213: -9104006148749637971
+    second: hacker_1_39
+  - first:
+      213: -4128095186503330285
+    second: hacker_1_40
+  - first:
+      213: -6816192825404474396
+    second: hacker_1_41
+  - first:
+      213: -1473196949371739823
+    second: hacker_1_42
+  - first:
+      213: -2615041300684293214
+    second: hacker_1_43
+  - first:
+      213: -7594471622300342623
+    second: hacker_1_44
+  - first:
+      213: 6095865196062244988
+    second: hacker_1_45
+  - first:
+      213: -7299342057497036351
+    second: hacker_1_46
+  - first:
+      213: -5451273954397672349
+    second: hacker_1_47
+  - first:
+      213: -1905777701170863829
+    second: hacker_1_48
+  - first:
+      213: -8161279770948598709
+    second: hacker_1_49
+  - first:
+      213: -3982686777733840212
+    second: hacker_1_50
+  - first:
+      213: -3855763251480846695
+    second: hacker_1_51
+  - first:
+      213: -8775218416015749130
+    second: hacker_1_52
+  - first:
+      213: -2401576184142689040
+    second: hacker_1_53
+  - first:
+      213: 8631460225420403355
+    second: hacker_1_54
+  - first:
+      213: -3570374632143355965
+    second: hacker_1_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hacker_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af7a6f4c08d45f985ccffaa2b5303e
+      internalID: -3945820730433682905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f019adb1b8a493bb29d1fcf274ab11
+      internalID: -6610784636425686441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e01c9d4efab14d4bb3c3562a53d3efa
+      internalID: 3500496089882884922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3b54e7809764f23a7b11cff13d7b37
+      internalID: -7297346900405110732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62467d8d4e3354eee9e3311560a71ed8
+      internalID: 8267806785403679533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49664dd6705ae4a579af97515ffdca1c
+      internalID: 1466593461441920544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c399f4f3394935a5e9a96a49853f8
+      internalID: 6759177723810059828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7021bee54ceb64bdba5749c53b899855
+      internalID: -8359603026112300966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb8a1d07d5f453da51cc39d929d75f
+      internalID: -796805052081770096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1af97f7cdbe4dc08dce98ae7feb80d
+      internalID: 2228666670757625870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1316e35aee414924bee4f72e16f29ba
+      internalID: 3775898906725598887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b1b2768c5b741b7b02862611648e95
+      internalID: 3150551614504087230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8078aa8cc37814cde808684ee30e8496
+      internalID: 2116017128466973344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84bbbac27514306be8d7cced560b67
+      internalID: 408115600735569101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aca5c257d844e42b87aa573f1d020a
+      internalID: 4215412111182641910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409e7ff028aa40f5b98a9e92d057caf
+      internalID: 5502169345161579697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd760498cb8f4ff4a77ed51743966b8
+      internalID: -8557150885423123839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3677ef2e4801343bfb396ea80a0505bd
+      internalID: -176982582113815944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756c04e5679c4425817b4dfc47a1ee4
+      internalID: -4350797468548795098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6741e199731494c70a51fd182452580d
+      internalID: 3441218289970719768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dee3042b0bf4413b8a7a694d0db0d7
+      internalID: 2455217514414820146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f4bd9170964d898cb9ff546dc3717
+      internalID: -8195832486058170253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8972becd7f3bd4a63a567c4cfbf266a4
+      internalID: -6131201769685175672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b1418d4d8494f79a0d258ded126ed8
+      internalID: 1002315875497385735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa87ba25181e542f799265f330241994
+      internalID: -8946502215411716767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab6be9ca1fd74ebabc2a1c3511da435
+      internalID: 6809458785782469524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7321cd0d0d6a740c7869feff2a8ea45f
+      internalID: -3076232638646040727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c99d01564664a0492cdbf5555ecdb6
+      internalID: 171793189175928703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d4c632608b541b997d80294b97256e
+      internalID: 6279545417601034354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0145bd44c29474e3189662060c0a80b1
+      internalID: 8256386236723452143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87651e5c1926a41c19dd6e93aba8289f
+      internalID: 3505319553289355116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64287bc2004df4fc99778bad9c44a836
+      internalID: -5824890561354403235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee97a488c3f054c698e894a454d7d887
+      internalID: 1038284508894828878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af843753fd7ee4c65822071fc2ed8996
+      internalID: -7064160112793189301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed3aa9c9a7a4aa09d4439f8d1fd441
+      internalID: 3001311862129496305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01195dd6c760e4377bfc1ab6b3275b20
+      internalID: -663489509412929540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f3497ae327148a886d31f5ff0360b7
+      internalID: -1313674589848210341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8ee35ae2dd2406f82b6323185018c7
+      internalID: 6819446017542203495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8745316bd3bc4759bbe6856c197dc24
+      internalID: 5552181619565349352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1545f93b3120445797589158337766b
+      internalID: -9104006148749637971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e215e14d8f841eba9b85b03c01b8bb
+      internalID: -4128095186503330285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e964907023b43a3b193ea63c7998b2
+      internalID: -6816192825404474396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fa189f8bd4341dd878a677d47c161b
+      internalID: -1473196949371739823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319a9023f44f46faa742d035a83d692
+      internalID: -2615041300684293214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b728cee01544248a6c6d47374dc6df
+      internalID: -7594471622300342623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b281557ff812492aae42d2fa400d9ac
+      internalID: 6095865196062244988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2b7a99b13814604a9a07422eaf866e
+      internalID: -7299342057497036351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b8cdee203094be7bbac6338142db0d
+      internalID: -5451273954397672349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483e642f17f74ce3a74bd05ee7df5c4
+      internalID: -1905777701170863829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65563e2963a5429dbf7e5ccd0edce95
+      internalID: -8161279770948598709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb81b626ee6cb4cc6a7b33cd50b6c499
+      internalID: -3982686777733840212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4584d8450eede4ea59f4c5a5538e3eb0
+      internalID: -3855763251480846695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde139ca91434becbfcdac8db96394a
+      internalID: -8775218416015749130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29aec4dddaf6491cbfcc52d53dfed9b
+      internalID: -2401576184142689040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c35a7528600423386bb3fbd6af3b9f
+      internalID: 8631460225420403355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hacker_1_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967ed7c559aaf4f9fb845ff14ab5e871
+      internalID: -3570374632143355965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

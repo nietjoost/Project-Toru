@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu's/MainMenu.unity
+    guid: 4160c54c8ef4b34429b0db2f1464edd6
+  - enabled: 1
+    path: Assets/Scenes/Menu's/SettingsMenu.unity
+    guid: e379f03afbdc1994289c06dfefcb7aa8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/LevelEnd/BetweenLevel.unity
+    guid: 1a03ff553e2c3a547a5b89d794c67ae6
+  - enabled: 0
+    path: 
+    guid: 4003aa58fbbbea34396ba239b1de4e3e
+  - enabled: 1
+    path: Assets/Scenes/Menu's/LevelMenu.unity
+    guid: 320ed186ac4575c4bb4dda9d77310f02
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 0 - Tutorial.unity
+    guid: 57c2a1b6b95d24f86bb3ae567dcf4258
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 1.unity
+    guid: 7b4f20a6863fa4acb9f3c4bae0a5af4f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Level 2.unity
+    guid: 1228bbebcacaa4c2187a6eb08dfe5b7a
+  - enabled: 1
+    path: Assets/Scenes/LevelEnd/SubmitScore.unity
+    guid: a64859cdb451140b691fc73e3e8b4174
+  m_configObjects: {}
